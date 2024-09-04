@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Ivan Pan
+- I enjoy playing video games such as League of Legends(emerald), Valorant(immortal), and strategy games.
 - https://ivanpan0626.github.io/Webpage/
