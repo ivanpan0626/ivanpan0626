@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">✩&emsp;Ivan Pan&emsp;✩</h1>
-  <p align="center">I enjoy playing video games such as League of Legends(emerald), Valorant(immortal), and strategy games.</p>
+  <p align="center"></p>
 </p>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://ivanpan0626.github.io/Webpage/" style="flex: 1; text-align: center;">
